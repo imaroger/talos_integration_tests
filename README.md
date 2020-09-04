@@ -12,8 +12,6 @@ of the robot. However, for now the flexibility in the hip found in real TALOS hu
 
 # Setup
 ```
-sudo apt install robotpkg-talos-simulation
-sudo apt install robotpkg-talos-metapkg-ros-control-sot
 mkdir -p test_ws/src
 cd test_ws/src
 catkin_init_workspace
